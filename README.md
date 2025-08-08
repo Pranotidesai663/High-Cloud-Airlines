@@ -28,7 +28,6 @@ and interactive visualizations.
 - **Dataset**: High Cloud Airlines (route-level passenger data)  
 - **Timeframe**: 2008 to 2013  
 - **Columns Included**: Origin, Destination, Passenger count, Carriers, Distance group, Day of week  
-> *(Note: Dataset is part of a simulated project. Please replace with real source link if applicable.)*
 
 ---
 
@@ -103,14 +102,6 @@ To deliver an interactive and insightful Power BI dashboard that:
 - **Market Segmentation**: Understand how travel patterns vary by distance and day of week for targeted offerings.
 - **Capacity Planning**: Adjust scheduling and fleet usage based on temporal and spatial demand trends.
 - **Competitive Analysis**: Benchmark carriers by efficiency and passenger preference to assess market position.
-
----
-
-## 7️⃣ Video Demo
-
-> 🎥 Click the image below to watch a full walkthrough of the dashboard across all 3 pages:
-
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
