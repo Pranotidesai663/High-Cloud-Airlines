@@ -87,7 +87,7 @@ To deliver an interactive and insightful Power BI dashboard that:
   Visualizes passenger preference for Short, Medium, or Long haul flights.  
   Aids in capacity planning and aircraft assignment strategies.
 
-- **Carrier Load Comparison (Matrix/Table Visual)**  
+- **Customize calender (Matrix/Table Visual)**  
   gives information about various term like financial month,financial Quarter based on dates.
   
 - **Interactive Slicers (Year, Quarter, Carrier, Distance, Route)**  
